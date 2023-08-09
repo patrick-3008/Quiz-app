@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter project.
+A simple flutter application with 3 questions and a score at the end.
 
 ## Getting Started
 
